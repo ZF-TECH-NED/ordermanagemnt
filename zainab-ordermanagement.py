@@ -61,16 +61,16 @@ orders = [
         "quantity": "3"
     },
     {
-        "customer": "umama",
+        "customer": "abcd",
         "product": "product1",
         "quantity": "3"
     },
     {
-        "customer": "umama1",
+        "customer": "xyz",
         "product": "product3",
         "quantity": "4"
     },
-    {'customer': 'Jane Smith',
+    {'customer': 'kkkkkkkk',
         'product_name': 'Widget B',
         'quantity': "3",
     },
